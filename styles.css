@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #24272E;
+}
+
+header {
+    background: -webkit-linear-gradient(top, rgba(147,147,147,1) 0%,rgba(214,214,214,1) 50%,rgba(147,147,147,1) 100%);
+}
